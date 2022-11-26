@@ -1,8 +1,5 @@
 ﻿using DOMAIN.Commands;
 using DOMAIN.Responses;
-using System;
-using System.Threading;
-using System.Threading.Tasks;
 
 namespace DOMAIN.Interfaces
 {

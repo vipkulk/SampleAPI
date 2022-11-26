@@ -1,7 +1,4 @@
-﻿using System.Threading;
-using System.Threading.Tasks;
-
-namespace DOMAIN.Interfaces
+﻿namespace DOMAIN.Interfaces
 {
     public interface IHandler
     {
